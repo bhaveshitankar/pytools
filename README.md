@@ -1,3 +1,3 @@
 # pytools
 
-1. time based searcher is notpad++ utilitu.
+1. time based searcher is notpad++ tool.
